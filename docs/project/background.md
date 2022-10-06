@@ -3,7 +3,7 @@ Mycotoxins are secondary metabolites of fungi that cause hepatotoxicity, teratog
 
 Globally, **fungal laccase** have better pH/temperature stability, greater tolerance to metals, and can oxidize a wide variety of substrates of different origins. The use of laccase can lead to rapid and significant degradation of various substrates.
 
-Our present study has aimed to analyze the interaction of AFB1 and AFG1 with the *site-directed mutated* laccase to find possible differences  and enhancement in enzyme and ligand pocket recognition towards various catalytic sites using different docking simulations and procedures. 
+Our present study has aimed to analyze the interaction of AFB1 and AFG1 with the *site-directed mutated* laccase to find possible differences in enzyme and ligand pocket recognition towards various catalytic sites using different docking simulations and procedures. 
 
 
 
