@@ -6,4 +6,3 @@ Globally, **fungal laccase** have better pH/temperature stability, greater toler
 Our present study has aimed to analyze the interaction of AFB1 and AFG1 with the *site-directed mutated* laccase to find possible differences in enzyme and ligand pocket recognition towards various catalytic sites using different docking simulations and procedures. 
 
 
-
