@@ -7,7 +7,7 @@ This is the wiki repository for iDEC 2022, Team: OriGeneNation (formerly DU_DTU_
 
 The wiki created from this repository is hosted at [idec-teams.github.io/2022_DU_DTU_NSUT-Delhi](https://idec-teams.github.io/2022_DU_DTU_NSUT-Delhi).
 
-The default wiki layout is powered by [MkDocs](http://mkdocs.org) with the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
+The wiki layout is powered by [MkDocs](http://mkdocs.org) with the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
 
 ## License
 
