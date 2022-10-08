@@ -6,7 +6,7 @@ Binding energies obtained from docking of wild-type laccase enzymes yielded very
 
 `Laccase (WT) with NE`
 
-![Laccase WT with NE](./Crystallised_ligand_clean.png) 
+![Fig:1.Laccase WT with NE](./Crystallised_ligand_clean.png) 
 
 `Laccase (WT) with AFB1`
 
