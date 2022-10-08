@@ -3,10 +3,11 @@ We are a group of 5 budding scientists from varying institutions in **Delhi** wh
 ***
 Our team members are:-
 
-* Eshaan Agarwal 
-* Swaranjeet Singh
 * Akanksha Aggarwal
-* Prachi Singh 
+* Eshaan Agarwal (Team Lead) 
 * Khushi Goel
+* Prachi Singh 
+* Swaranjeet Singh
+
 
 We are working through open sources and sans mentorship on this project have built our idea and the data generated all on our own. We hope to learn more and get acquainted with all of the participating iDEC teams. iDEC presentes a very holistic approach with an edge of competitiveness while carrying the most appreciated form of learning which is through practical application.  
