@@ -1,6 +1,4 @@
-# iDEC 2022 | DU_DTU_NSUT-Delhi
-
-### In-silico directed evolution of Laccase enzyme to enhance its stability and catalytic efficiency in the degradation of Aflatoxin B1 and Aflatoxin G1
+## In-silico directed evolution of Laccase enzyme to enhance its stability and catalytic efficiency in the degradation of Aflatoxin B1 and Aflatoxin G1
 
 **Mycotoxins** are secondary metabolites of fungi that cause hepatotoxicity, teratogenicity, and immunotoxicity, and are classified as group I carcinogens. Aflatoxins (AFs)  are a type of mycotoxin produced by fungal species such as Aspergillus flavus, and A. parasiticus. 
 These commonly infect cereal crops, including wheat, tree nuts, maize, cotton, and peanuts, and can pose serious threats to humans and animals by causing various complications such as hepatotoxicity, teratogenicity and immunotoxicity. *The main aflatoxins are B1, B2, G1 and G2, and can be toxic to the body through inhalation, mucous membranes or skin,leading to an overactive inflammatory response.*
