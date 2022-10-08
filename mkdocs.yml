@@ -43,7 +43,6 @@ nav:
   - Project:
       - Ideation:
           - Introduction: index.md
-          - Background: project/background.md
       - Findings:
           - Results: project/results.md
           - Discussion and Path Ahead: project/discussion.md
