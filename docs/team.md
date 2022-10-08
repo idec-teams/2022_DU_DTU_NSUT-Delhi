@@ -1,5 +1,5 @@
 # Our Team
-We are a team of 5 members from **Delhi** who formed this team together in hopes of participating in iDEC and trying to learn more about the world of directed evolution. 
+We are a group of 5 budding scientists from varying institutions in **Delhi** who have formed this team together with the ambitions of participating in iDEC and are looking forward to exploring the paths of directed evolution. 
 ***
 Our team members are:-
 
@@ -9,4 +9,4 @@ Our team members are:-
 * Prachi Singh 
 * Khushi Goel
 
-We could not get much or any mentor support and have built our idea and the data generated all on our own, and we hope to learn more and get acquainted to all iDEC teams participating. 
+We are working through open sources and sans mentorship on this project have built our idea and the data generated all on our own. We hope to learn more and get acquainted with all of the participating iDEC teams. iDEC presentes a very holistic approach with an edge of competitiveness while carrying the most appreciated form of learning which is through practical application.  
