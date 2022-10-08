@@ -1,8 +1,9 @@
-# Wiki repoistory for iDEC 2022 | DU_DTU_NSUT-Delhi
+# Wiki repoistory for iDEC 2022 | OriGeneNation (formerly DU_DTU_NSUT-Delhi)
 
-(This a temporary README file that needs to be updated before you submit the team wiki. Please stay tuned at [idec.io](https://idec.io) for future relevant announcements.)
+This is the wiki repository for iDEC 2022, Team: OriGeneNation (formerly DU_DTU_NSUT-Delhi).
 
-This is the wiki repository for iDEC 2022, Team: DU_DTU_NSUT-Delhi.
+### Project title
+**In-silico directed evolution of Laccase enzyme to enhance its stability and catalytic efficiency in the degradation of Aflatoxin B1 and Aflatoxin G1**
 
 The wiki created from this repository is hosted at [idec-teams.github.io/2022_DU_DTU_NSUT-Delhi](https://idec-teams.github.io/2022_DU_DTU_NSUT-Delhi).
 
