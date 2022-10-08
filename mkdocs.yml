@@ -1,4 +1,4 @@
-site_name: iDEC 2022 | DU_DTU_NSUT-Delhi
+site_name: iDEC 2022 | OriGeneNation (formerly DU_DTU_NSUT-Delhi)
 
 theme:
   name: material
@@ -6,8 +6,8 @@ theme:
   favicon: img/idec-wiki-logo.png
 
   palette:
-    primary: light blue
-    accent: blue
+    primary: light purple
+    accent: purple 
 
   features:
     - navigation.sections
@@ -39,12 +39,13 @@ repo_url: https://github.com/idec-teams/2022_DU_DTU_NSUT-Delhi
 copyright: Copyright &copy; 2022 iDEC. CC-BY-4.0 | The International Directed Evolution Competition (iDEC) is a Scottish Charitable Incorporate Organisation (SCIO), registered in Scotland, with charity number：SC050826
 
 nav:
-  - Project Introduction: index.md
   - Team: team.md
   - Project:
       - Background: project/background.md
+      - Project Introduction: index.md
       - Results: project/results.md
+      - Discussion and Path Ahead: project/discussion.md
       - Documentation:
           - Protocols: documentation/protocols.md
-          - Lab notebook: documentation/notebook.md
-      - Supplementary information: project/Supplementary.md
+          - Supplementary information: project/Supplementary.md
+      - References: project/references.md

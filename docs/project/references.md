@@ -1,0 +1,27 @@
+1.	Dellafiora L, Galaverna G, Reverberi M, Dall'Asta C. Degradation of Aflatoxins by Means of Laccases from Trametes versicolor: An In Silico Insight. Toxins (Basel). 2017;9(1):17. Published 2017 Jan 1. doi:10.3390/toxins9010017
+2.	Ernst, H. A., Jørgensen, L. J., Bukh, C., Piontek, K., Plattner, D. A., Østergaard, L. H., Larsen, S., & Bjerrum, M. J. (2018). A comparative structural analysis of the surface properties of asco-laccases. PLoS ONE, 13(11). https://doi.org/10.1371/journal.pone.0206589
+3.	Alberts JF, Gelderblom WC, Botha A, van Zyl WH. Degradation of aflatoxin B(1) by fungal laccase enzymes. Int J Food Microbiol. 2009;135(1):47-52. doi:10.1016/j.ijfoodmicro.2009.07.022
+4.	Kielb P, Gray HB, Winkler JR. Does Tyrosine Protect S. Coelicolor Laccase from Oxidative Degradation? ChemRxiv. 2020. doi:10.26434/chemrxiv.12671612.v1 This content is a preprint and has not been peer-reviewed.
+5.	Clemmer JD, Carr J, Knaff DB, Holwerda RA. Modification of laccase tryptophan residues with 2-hydroxy-5-nitrobenzyl bromide. FEBS Lett. 1978;91(2):346-350. doi:10.1016/0014-5793(78)81207-1
+6.	Liu Y, Mao H, Hu C, et al. Molecular docking studies and in vitro degradation of four aflatoxins (AFB1 , AFB2 , AFG1 , and AFG2 ) by a recombinant laccase from Saccharomyces cerevisiae. J Food Sci. 2020;85(4):1353-1360. doi:10.1111/1750-3841.15106
+7.	Christensen NJ, Kepp KP. Accurate stabilities of laccase mutants predicted with a modified FoldX protocol. J Chem Inf Model. 2012;52(11):3028-3042. doi:10.1021/ci300398z
+8.	Stanzione, I., Pezzella, C., Giardina, P. et al. Beyond natural laccases: extension of their potential applications by protein engineering. Appl Microbiol Biotechnol 104, 915–924 (2020). https://doi.org/10.1007/s00253-019-10147-z
+9.	Liu, Y., Mao, H., Woldemariam Yohannes, K., Wan, Z., Cao, Y., Tron, T., Lin, J., Jiang, Y., Li, H., & Wang, J. (2021). Degradation of aflatoxin B1 by a recombinant laccase from Trametes sp. C30 expressed in Saccharomyces cerevisiae: A mechanism assessment study in vitro and in vivo. Food Research International, 145. https://doi.org/10.1016/j.foodres.2021.110418
+10.	 Acharyya SR, Sen P, Kandasamy T, Ghosh SS. Designing of disruptor molecules to restrain the protein-protein interaction network of VANG1/SCRIB/NOS1AP using fragment-based drug discovery techniques [published online ahead of print, 2022 Jun 1]. Mol Divers. 2022;10.1007/s11030-022-10462-0. doi:10.1007/s11030-022-10462-0
+11.	 Kumar P, Mahato DK, Kamle M, Mohanta TK, Kang SG. Aflatoxins: A Global Concern for Food Safety, Human Health and Their Management. Front Microbiol. 2017;7:2170. Published 2017 Jan 17. doi:10.3389/fmicb.2016.02170
+12.	Reiss, R., Ihssen, J., Richter, M., Eichhorn, E., Schilling, B., & Thöny-Meyer, L. (2013). Laccase versus laccase-like multi-copper oxidase: a comparative study of similar enzymes with diverse substrate spectra. PloS one, 8(6), e65633. https://doi.org/10.1371/journal.pone.0065633	
+
+## Tools
+
+1.	CUPSAT - Parthiban V, Gromiha MM, Schomburg D. CUPSAT: prediction of protein stability upon point mutations. Nucleic Acids Res. 2006;34(Web Server issue):W239-W242. doi:10.1093/nar/gkl190
+2.	HotSpot Wizard v3.1 - Sumbalova L, Stourac J, Martinek T, Bednar D, Damborsky J. HotSpot Wizard 3.0: web server for automated design of mutations and smart libraries based on sequence input information. Nucleic Acids Res. 2018;46(W1):W356-W362. doi:10.1093/nar/gky417
+3.	Schrodinger Desmond - Kevin J. Bowers, Edmond Chow, Huafeng Xu, Ron O. Dror, Michael P. Eastwood, Brent A. Gregersen, John L. Klepeis, Istvan Kolossvary, Mark A. Moraes, Federico D. Sacerdoti, John K. Salmon, Yibing Shan, and David E. Shaw, "Scalable Algorithms for Molecular Dynamics Simulations on Commodity Clusters," Proceedings of the ACM/IEEE Conference on Supercomputing (SC06), Tampa, Florida, 2006, November 11-17
+Schrödinger Release 2022-3: Desmond Molecular Dynamics System, D. E. Shaw Research, New York, NY, 2021. Maestro-Desmond Interoperability Tools, Schrödinger, New York, NY, 2021.
+4.	Pyrx - Dallakyan S, Olson AJ. Small-molecule library screening by docking with PyRx. Methods Mol Biol. 2015;1263:243-250. doi:10.1007/978-1-4939-2269-7_19
+5.	Discovery studio - 1. BIOVIA, Dassault Systèmes, [Discovery Studio], [version 2021], San Diego: Dassault Systèmes, [2021].
+6.	Mega - x - Kumar S, Stecher G, Li M, Knyaz C, Tamura K. MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms. Mol Biol Evol. 2018;35(6):1547-1549. doi:10.1093/molbev/msy096
+7.	Pdb - Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE. The Protein Data Bank. Nucleic Acids Res. 2000 Jan 1;28(1):235-42. doi: 10.1093/nar/28.1.235. PMID: 10592235; PMCID: PMC102472.
+8.	Pymol - Seeliger D, de Groot BL. Ligand docking and binding site analysis with PyMOL and Autodock/Vina. J Comput Aided Mol Des. 2010;24(5):417-422. doi:10.1007/s10822-010-9352-6
+
+
+
