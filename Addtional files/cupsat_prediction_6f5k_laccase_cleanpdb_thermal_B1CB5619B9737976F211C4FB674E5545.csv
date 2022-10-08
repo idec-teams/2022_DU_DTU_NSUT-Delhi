@@ -1,0 +1,20 @@
+Chain,Wild type AA,Residue ID,Amino acid,Overall Stability,Torsion,Predicted DDG (kcal/mol)
+A,ASP,106,LYS,Stabilising,Favourable,19.39
+A,HIS,138,CYS,Stabilising,Favourable,14.64
+A,HIS,93,CYS,Stabilising,Favourable,14.59
+A,HIS,434,ILE,Stabilising,Favourable,14.28
+A,HIS,434,VAL,Stabilising,Favourable,14.14
+A,HIS,93,LEU,Stabilising,Favourable,14.11
+A,HIS,93,ILE,Stabilising,Favourable,13.25
+A,HIS,93,VAL,Stabilising,Favourable,12.85
+A,HIS,95,LEU,Stabilising,Favourable,12.71
+A,SER,135,CYS,Stabilising,Favourable,12.35
+A,HIS,95,ILE,Stabilising,Favourable,12.12
+A,ASP,106,PRO,Stabilising,Favourable,12.11
+A,HIS,138,PHE,Stabilising,Favourable,11.7
+A,HIS,138,ALA,Stabilising,Favourable,11.63
+A,HIS,93,PHE,Stabilising,Favourable,11.59
+A,HIS,95,VAL,Stabilising,Favourable,11.48
+A,HIS,434,CYS,Stabilising,Favourable,11.32
+A,ASP,477,LYS,Stabilising,Favourable,11.19
+A,HIS,434,PHE,Stabilising,Favourable,11.15
