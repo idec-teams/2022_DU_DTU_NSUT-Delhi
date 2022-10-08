@@ -12,3 +12,5 @@ From the results generated, 4 best results were filtered and their stacking effe
 The applications of the laccase degradation activity lies towards having safer food work and also works under the **Goal 2 -> 0 Hunger** and **Goal 3 -> Good Health and Well Being** of the Sustainable Development Goals.
 
 ![SDG](./sdg.png)
+
+>[Sustainable Development Goals](https://sdgs.un.org/goals)
