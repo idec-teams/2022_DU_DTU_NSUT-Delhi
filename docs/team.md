@@ -5,7 +5,6 @@ Our team members are:-
 
 * Akanksha Aggarwal
 * Eshaan Agarwal (Team Lead) 
-* Khushi Goel
 * Prachi Singh 
 * Swaranjeet Singh
 
