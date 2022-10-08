@@ -1,5 +1,5 @@
 # Our Team
-We are a group of 5 budding scientists from varying institutions in **Delhi** who have formed this team together with the ambitions of participating in iDEC and are looking forward to exploring the paths of directed evolution. 
+We are a group of 4 budding scientists from varying institutions in **Delhi** who have formed this team together with the ambitions of participating in iDEC and are looking forward to exploring the paths of directed evolution. 
 ***
 Our team members are:-
 
