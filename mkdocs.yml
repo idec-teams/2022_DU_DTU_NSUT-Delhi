@@ -39,7 +39,7 @@ repo_url: https://github.com/idec-teams/2022_DU_DTU_NSUT-Delhi
 copyright: Copyright &copy; 2022 iDEC. CC-BY-4.0 | The International Directed Evolution Competition (iDEC) is a Scottish Charitable Incorporate Organisation (SCIO), registered in Scotland, with charity number：SC050826
 
 nav:
-  - Home: index.md
+  - Project Introduction: index.md
   - Team: team.md
   - Project:
       - Background: project/background.md
@@ -47,3 +47,4 @@ nav:
       - Documentation:
           - Protocols: documentation/protocols.md
           - Lab notebook: documentation/notebook.md
+      - Supplementary information: project/Supplementary.md
